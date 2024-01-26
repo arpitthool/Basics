@@ -1,0 +1,18 @@
+COMMAND:
+
+./githubapi-get.sh $GITHUBTOKEN /repos/arpitthool/blogger-app/issues?state=open | grep '"title":'
+
+OTUPUT:
+
+    "title": "build(deps-dev): bump @sveltejs/kit from 2.0.6 to 2.4.3 in /frontend",
+    "title": "build(deps-dev): bump @sveltejs/adapter-node from 2.0.2 to 2.1.2 in /frontend",
+    "title": "build(deps-dev): bump vite from 5.0.10 to 5.0.12 in /frontend",
+    "title": "build(deps): bump follow-redirects from 1.15.3 to 1.15.5 in /frontend",
+    "title": "Create Unit and Functional tests",
+    "title": "Make a db backup",
+    "title": "Add Caching",
+    "title": "Make DB data persistent ",
+    "title": "integrate svelte project with backend adonisjs project.",
+    "title": "Create a CICD pipeline to deploy app on AWS whenever changes are deployed to master branch",
+    "title": "Role Based access",
+    "title": "Create a Kubernetes YML file to deploy app using Kuberentes",

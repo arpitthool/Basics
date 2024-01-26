@@ -1,0 +1,7 @@
+COMMAND:
+
+./githubapi-get.sh $GITHUBTOKEN /repos/arpitthool/blogger-app/contributors | grep '"login":'
+
+OUTPUT:
+
+    "login": "arpitthool",
