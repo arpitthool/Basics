@@ -1,0 +1,9 @@
+ANSWERS
+
+1. Author: Junio C Hamano <gitster@pobox.com>
+2. How many objects share a partial match with the hash '8348'? : 12
+3. How many blobs, trees, and commits are there? : 5 commits, 4 trees, 3 blobs
+4. In your own words, describe what this commit is doing? : This commit Updates the German translation for Git v2.31.0
+5. What is the name of the first file listed that changed between versions 2.31.0 and 2.31.1? : Documentation/RelNotes/2.31.1.txt
+6. How many total branches are there for the git repository? : 6
+
