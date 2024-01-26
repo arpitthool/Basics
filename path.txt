@@ -1,0 +1,2 @@
+/home/arpit/dev/advSwe
+path.txt
